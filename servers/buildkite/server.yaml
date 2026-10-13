@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/5055988?v=4
 source:
   project: https://github.com/buildkite/buildkite-mcp-server
-  commit: 4f160065488644ac90552e728907d319c46a43df
+  commit: ee48cae7738b7df9a522412226c5e635d5e270dd
   dockerfile: Dockerfile.local
 config:
   description: Configure the connection to Buildkite
